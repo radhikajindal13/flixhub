@@ -18,7 +18,7 @@ FlixHub is a sleek and powerful React-based frontend application that allows use
 
 ## 🚀 Live Demo
 
-🔗 [Visit the Live Site](https://your-vercel-deployment-link.vercel.app)
+🔗 [Visit the Live Site](https://flixhub-movies.vercel.app/)
 
 ---
 
