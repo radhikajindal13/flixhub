@@ -1,6 +1,6 @@
 # 🎬 FlixHub - Explore Trending Movies & TV Shows
 
-FlixHub is a sleek and powerful React-based frontend application that allows users to browse, search, and explore movies and TV shows using The Movie Database (TMDB) API. It features a beautiful UI, dark/light theme toggle, voice command integration (Alan AI), and category-based filtering.
+FlixHub is a sleek and powerful React-based frontend application that allows users to browse, search, and explore movies and TV shows using The Movie Database (TMDB) API. It features a beautiful UI, dark/light theme toggle and category-based filtering.
 
 ---
 
@@ -10,7 +10,6 @@ FlixHub is a sleek and powerful React-based frontend application that allows use
 - 🔍 Search movies by keyword
 - 🗂️ Filter by genre or category
 - 🌓 Toggle between Light and Dark modes
-- 🗣️ Voice commands powered by Alan AI
 - 🎥 View detailed information on each movie
 - 📱 Fully responsive UI for mobile and desktop
 
@@ -28,7 +27,6 @@ FlixHub is a sleek and powerful React-based frontend application that allows use
 |------------|---------------------------------------|
 | Frontend   | React.js, Material UI                |
 | State Mgmt | Redux Toolkit                        |
-| Voice AI   | Alan AI SDK                          |
 | API        | The Movie Database (TMDB) API        |
 | Hosting    | Vercel                               |
 
