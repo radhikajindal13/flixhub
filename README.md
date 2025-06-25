@@ -15,9 +15,13 @@ FlixHub is a sleek and powerful React-based frontend application that allows use
 
 
 
+
+
 ## 🚀 Live Demo
 
 🔗 [Visit the Live Site](https://flixhub-movies.vercel.app/)
+
+
 
 ---
 
@@ -67,6 +71,7 @@ npm start
 **Radhika Jindal**  
 🔗 [GitHub](https://github.com/radhikajindal13)  
 🔗 [LinkedIn](https://www.linkedin.com/in/radhika-jindal-1b5a7a258/)
+
 
 
 
